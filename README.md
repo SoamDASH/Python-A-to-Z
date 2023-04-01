@@ -3,6 +3,7 @@
  We will cover each and every topic from based on worlds best recommanded books and course
  if you guys want to discusion zoom also i am available
  
+ https://www.notion.so/Python-Syllabus-c7ba9f4c8cea43aaa5d80d93ee8c08dd?pvs=4
  
  # Section 1. Fundamentals
 
