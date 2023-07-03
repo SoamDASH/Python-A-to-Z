@@ -22,6 +22,75 @@ Constants – show you how to define constants in Python.
 Comments – learn how to make notes in your code.
 
 Type conversion – learn how to convert a value of one type to another e.g., converting a string to a number.
+Converting from string to integer:
+
+number_str = "42"
+
+number_int = int(number_str)
+print(number_int)  # Output: 42
+
+Converting from integer to string:
+
+number_int = 42
+number_str = str(number_int)
+print(number_str)  # Output: "42"
+
+Converting from string to float:
+
+float_str = "3.14"
+float_num = float(float_str)
+print(float_num)  # Output: 3.14
+
+Converting from float to integer:
+
+float_num = 3.14
+int_num = int(float_num)
+print(int_num)  # Output: 3
+
+Converting from list to string:
+
+my_list = [1, 2, 3]
+list_str = str(my_list)
+print(list_str)  # Output: "[1, 2, 3]"
+
+Converting from string to list:
+
+list_str = "[1, 2, 3]"
+my_list = eval(list_str)
+print(my_list)  # Output: [1, 2, 3]
+
+Note: We cant change string to integer
+
+
+
+Input function - The input() function in Python is used to get input from the user. It displays a prompt message (optional) and waits for the user to enter a value. The value entered by the user is returned as a string.
+
+
+name = input("Enter your name: ")
+print("Hello, " + name + "!")
+
+age = input("Enter your age: ")
+print("You are " + age + " years old.")
+
+Types of error:
+
+SyntaxError:
+This error occurs when there is a violation of the Python syntax rules.
+
+NameError:
+This error occurs when a variable or name is used before it is defined or declared.
+
+TypeError:
+This error occurs when an operation is performed on an object of an inappropriate type.
+
+TypeError:
+This error occurs when an operation is performed on an object of an inappropriate type.
+
+ValueError:
+This error occurs when a function receives an argument of the correct type but an inappropriate value.
+
+ValueError:
+This error occurs when a function receives an argument of the correct type but an inappropriate value.
 
 # Section 2. Operators
 
