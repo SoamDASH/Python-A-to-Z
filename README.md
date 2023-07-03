@@ -25,6 +25,10 @@ Type conversion – learn how to convert a value of one type to another e.g., co
 
 # Section 2. Operators
 
+Arithmetic Operators - used to perform mathematical operations such as addition, subtraction, multiplication, division, modulus, etc., on the given operands.
+
+https://youtu.be/XfBBeyBOzF0
+
 Comparison operators – introduce you to the comparison operators and how to use them to compare two values.
 
 [https://www.youtube.com/watch?v=Aamih6LtMNM](https://www.youtube.com/watch?v=Aamih6LtMNM)
