@@ -83,12 +83,6 @@ This error occurs when a variable or name is used before it is defined or declar
 TypeError:
 This error occurs when an operation is performed on an object of an inappropriate type.
 
-TypeError:
-This error occurs when an operation is performed on an object of an inappropriate type.
-
-ValueError:
-This error occurs when a function receives an argument of the correct type but an inappropriate value.
-
 ValueError:
 This error occurs when a function receives an argument of the correct type but an inappropriate value.
 
